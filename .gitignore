@@ -8,5 +8,5 @@ bin/
 *.o
 *.out
 0_Test/c/test
-0_Test/cpp/test
+0_Test/c++/test
 **/solution
