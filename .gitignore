@@ -1,1 +1,12 @@
 .DS_Store
+
+# Java 컴파일 결과물
+*.class
+bin/
+
+# C/C++ 컴파일 결과물
+*.o
+*.out
+0_Test/c/test
+0_Test/cpp/test
+**/solution
